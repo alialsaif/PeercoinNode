@@ -1,12 +1,12 @@
-# Peerunity Official Developent Repository
+# PeercoinNode Developent Repository
 
-## What is Peerunity?
+## What is PeercoinNode?
 
-Peerunity is a Peercoin network-compatible, community-developed wallet client.
+PeercoinNode is a Peercoin network-compatible, community-developed wallet client. Its aims to expand the peercoin network by integrating the network with Hidden Services capable networks like TOR and I2P.
 
-The project has been designed to provide people with a stable, secure, and feature-rich alternative to the Peercoin reference wallet (http://github.com/ppcoin/ppcoin). 
+The project has been designed to provide people with a stable, secure, and feature-rich alternative to the Peercoin Core and and Peerunity clients. However, if the previously mentioned clients implement the functionality PeercoinNode aims to provide, this client will become obselete and it will not have any further development. When such integration occures in the upstream, we encourage you to use those clients instead.
 
-To help faciliate broad community cooperation, a number of trusted Peercoin/Peershares community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
+Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
 
 
 ### Peerunity Resources
